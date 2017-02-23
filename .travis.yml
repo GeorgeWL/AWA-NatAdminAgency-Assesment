@@ -1,0 +1,15 @@
+language: csharp
+solution: NationalAdmissionAgency.sln
+matrix:
+  include:
+    - dotnet: 1.0.0-preview2-003121
+      mono: none
+      env: DOTNETCORE=1
+    - mono: latest
+...
+
+# whitelist
+branches:  
+  only:
+    - master
+    
