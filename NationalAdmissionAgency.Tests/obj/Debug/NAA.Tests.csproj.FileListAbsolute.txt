@@ -1,0 +1,1 @@
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME6\8\b1037178\MyWork\Visual Studio 2013\Projects\NationalAdmissionAgency\NationalAdmissionAgency.Tests\obj\Debug\NAA.Tests.csprojResolveAssemblyReference.cache

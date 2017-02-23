@@ -1,0 +1,7 @@
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME6\8\b1037178\MyWork\Visual Studio 2013\Projects\NationalAdmissionAgency\NationalAdmissionAgency.Service\bin\Debug\NationalAdmissionAgency.Service.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME6\8\b1037178\MyWork\Visual Studio 2013\Projects\NationalAdmissionAgency\NationalAdmissionAgency.Service\bin\Debug\NationalAdmissionAgency.Service.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME6\8\b1037178\MyWork\Visual Studio 2013\Projects\NationalAdmissionAgency\NationalAdmissionAgency.Service\obj\Debug\NationalAdmissionAgency.Service.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME6\8\b1037178\MyWork\Visual Studio 2013\Projects\NationalAdmissionAgency\NationalAdmissionAgency.Service\obj\Debug\NationalAdmissionAgency.Service.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME6\8\b1037178\MyWork\Visual Studio 2013\Projects\NationalAdmissionAgency\NationalAdmissionAgency.Service\obj\Debug\NAA.Services.csprojResolveAssemblyReference.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME6\8\b1037178\MyWork\Visual Studio 2013\Projects\NationalAdmissionAgency\NationalAdmissionAgency.Service\bin\Debug\NationalAdmissionAgency.Data.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME6\8\b1037178\MyWork\Visual Studio 2013\Projects\NationalAdmissionAgency\NationalAdmissionAgency.Service\bin\Debug\NationalAdmissionAgency.Data.pdb
