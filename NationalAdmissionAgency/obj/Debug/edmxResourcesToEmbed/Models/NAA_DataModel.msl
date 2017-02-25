@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="b1037178ModelStoreContainer" CdmEntityContainer="NAAgencyEntities">
+    <EntitySetMapping Name="NAA_Application">
+      <EntityTypeMapping TypeName="b1037178Model.NAA_Application">
+        <MappingFragment StoreEntitySet="NAA_Application">
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="ApplicantId" ColumnName="ApplicantId" />
+          <ScalarProperty Name="CourseName" ColumnName="CourseName" />
+          <ScalarProperty Name="UniversityId" ColumnName="UniversityId" />
+          <ScalarProperty Name="PersonalStatement" ColumnName="PersonalStatement" />
+          <ScalarProperty Name="TeacherReference" ColumnName="TeacherReference" />
+          <ScalarProperty Name="TeacherContactDetails" ColumnName="TeacherContactDetails" />
+          <ScalarProperty Name="UniversityOffer" ColumnName="UniversityOffer" />
+          <ScalarProperty Name="Firm" ColumnName="Firm" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NAA_Profile">
+      <EntityTypeMapping TypeName="b1037178Model.NAA_Profile">
+        <MappingFragment StoreEntitySet="NAA_Profile">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ApplicantName" ColumnName="ApplicantName" />
+          <ScalarProperty Name="ApplicantAddress" ColumnName="ApplicantAddress" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NAA_University">
+      <EntityTypeMapping TypeName="b1037178Model.NAA_University">
+        <MappingFragment StoreEntitySet="NAA_University">
+          <ScalarProperty Name="UniversityId" ColumnName="UniversityId" />
+          <ScalarProperty Name="University_Name" ColumnName="University Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
